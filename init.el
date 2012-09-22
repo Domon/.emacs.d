@@ -4,12 +4,6 @@
 (if window-system
   (tool-bar-mode -1))
 
-; Color Theme
-(require 'color-theme)
-(color-theme-initialize)
-
-; Solarized
-(add-to-list 'load-path "~/.emacs.d/emacs-color-theme-solarized")
-(require 'color-theme-solarized)
-(color-theme-solarized-dark)
-
+; Load Solarized theme
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/emacs-color-theme-solarized")
+(load-theme 'solarized-dark t)
