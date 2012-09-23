@@ -1,9 +1,15 @@
-(add-to-list 'load-path "~/.emacs.d")
+; -*- coding: utf-8 -*-
 
-; Disable the toolbar in X windows
-(if window-system
-  (tool-bar-mode -1))
+; Debug on error
+(setq debug-on-error t)
 
-; Load Solarized theme
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/emacs-color-theme-solarized")
-(load-theme 'solarized-dark t)
+(add-to-list 'load-path "~/.emacs.d/")
+
+(require 'init-path)
+
+(require 'init-site-lisp)
+(require 'init-scheme)
+
+(require 'init-frames)
+(require 'init-themes)
+
