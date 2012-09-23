@@ -10,6 +10,7 @@
 (require 'init-site-lisp)
 (require 'init-scheme)
 
+(require 'init-fonts)
 (require 'init-frames)
 (require 'init-themes)
 
