@@ -4,8 +4,9 @@ I'm using [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 
 ## Installation
 
-    cd ~
-    git clone git://github.com/Domon/.emacs.d.git
+    git clone git://github.com/Domon/.emacs.d.git ~/.emacs.d
+    cd ~/.emacs.d/
+    git submodule update --init
 
 ## Font
 
