@@ -10,13 +10,16 @@
 (require 'init-site-lisp)
 (require 'init-package)
 
+; Programming languages
+(require 'init-scheme)
+
 ; GUI
 (require 'init-env-path)
 (require 'init-fonts)
 (require 'init-gui-frames)
 (require 'init-themes)
 
-; Programming languages
-(require 'init-scheme)
+; Server
+(require 'init-server)
 
-; TODO: Server
+(provide 'init)
