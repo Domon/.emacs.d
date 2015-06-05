@@ -3,14 +3,20 @@
 ; Debug on error
 (setq debug-on-error t)
 
-(add-to-list 'load-path "~/.emacs.d/")
+; Add ~/.emacs.d/lisp to load-path
+(add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 
-(require 'init-path)
-
+; Packages
 (require 'init-site-lisp)
-(require 'init-scheme)
+(require 'init-package)
 
+; GUI
+(require 'init-env-path)
 (require 'init-fonts)
-(require 'init-frames)
+(require 'init-gui-frames)
 (require 'init-themes)
 
+; Programming languages
+(require 'init-scheme)
+
+; TODO: Server

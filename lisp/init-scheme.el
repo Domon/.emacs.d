@@ -1,7 +1,7 @@
 (setq scheme-program-name "scheme")
 
 ; XScheme
-;(require 'xscheme)
+; (require 'xscheme)
 
 ; Quack
 (require 'quack)
