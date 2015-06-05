@@ -10,6 +10,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 
 ## Extensions
 
+* [Evil](https://gitorious.org/evil/pages/Home)
 * [Quack](http://www.neilvandyke.org/quack/)
 
 ## Font

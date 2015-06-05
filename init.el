@@ -16,6 +16,7 @@
 (require 'init-themes)
 
 ; Packages
+(require 'init-evil)
 (require 'init-scheme)
 
 (provide 'init)
