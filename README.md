@@ -5,8 +5,6 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 ## Installation
 
     git clone git://github.com/Domon/.emacs.d.git ~/.emacs.d
-    cd ~/.emacs.d/
-    git submodule update --init
 
 ## Extensions
 

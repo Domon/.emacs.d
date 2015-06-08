@@ -1,3 +1,5 @@
+(require-package 'quack)
+
 (setq scheme-program-name "scheme")
 
 ; XScheme
