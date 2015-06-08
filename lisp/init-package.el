@@ -1,8 +1,12 @@
 (require 'package)
 
-; Add MELPA repo for evil
-; XXX: MELPA should provide HTTPS url.
-(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+; XXX: Package archives should provide HTTPS urls.
+
+; Add MELPA for most packages
+(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/") t)
+
+; Add Org for Org packages
+(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/") t)
 
 ; Initialize packages ASAP
 (setq package-enable-at-startup nil)
