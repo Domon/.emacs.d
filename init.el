@@ -17,6 +17,7 @@
 
 ; Packages
 (require 'init-evil)
+(require 'init-fiplr)
 (require 'init-markdown)
 (require 'init-org)
 (require 'init-scheme)
