@@ -12,6 +12,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 * [Markdown](http://jblevins.org/projects/markdown-mode/)
 * [Quack](http://www.neilvandyke.org/quack/)
 * [Solarized Theme](https://github.com/bbatsov/solarized-emacs)
+* [Web Mode](http://web-mode.org/)
 
 ## Font
 

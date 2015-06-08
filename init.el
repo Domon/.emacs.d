@@ -19,5 +19,6 @@
 (require 'init-evil)
 (require 'init-markdown)
 (require 'init-scheme)
+(require 'init-web)
 
 (provide 'init)
