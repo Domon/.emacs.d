@@ -12,6 +12,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 
 * [Evil](https://gitorious.org/evil/pages/Home)
 * [Quack](http://www.neilvandyke.org/quack/)
+* [Solarized Theme](https://github.com/bbatsov/solarized-emacs)
 
 ## Font
 
