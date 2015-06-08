@@ -9,6 +9,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 ## Extensions
 
 * [Evil](https://gitorious.org/evil/pages/Home)
+* [Markdown](http://jblevins.org/projects/markdown-mode/)
 * [Quack](http://www.neilvandyke.org/quack/)
 * [Solarized Theme](https://github.com/bbatsov/solarized-emacs)
 

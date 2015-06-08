@@ -10,6 +10,7 @@
 
 (defun require-package (package)
   (unless (package-installed-p package)
+    (package-refresh-contents)
     (package-install package)))
 
 (provide 'init-package)

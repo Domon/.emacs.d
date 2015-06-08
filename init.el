@@ -17,6 +17,7 @@
 
 ; Packages
 (require 'init-evil)
+(require 'init-markdown)
 (require 'init-scheme)
 
 (provide 'init)
