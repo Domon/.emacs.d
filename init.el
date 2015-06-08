@@ -19,6 +19,7 @@
 (require 'init-evil)
 (require 'init-fiplr)
 (require 'init-markdown)
+(require 'init-neotree)
 (require 'init-org)
 (require 'init-scheme)
 (require 'init-web)
