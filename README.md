@@ -12,6 +12,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 * [Fiplr](https://github.com/grizzl/fiplr) - Fuzzy file finder (`Cmd-t`)
 * [Markdown](http://jblevins.org/projects/markdown-mode/)
 * [NeoTree](https://github.com/jaypei/emacs-neotree) - File tree explorer (`F8`)
+* [Projectile](http://batsov.com/projectile/) - Project interaction
 * [Quack](http://www.neilvandyke.org/quack/)
 * [Solarized Theme](https://github.com/bbatsov/solarized-emacs)
 * [Web Mode](http://web-mode.org/) - Web template syntax highlighting

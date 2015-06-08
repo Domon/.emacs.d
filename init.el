@@ -21,6 +21,7 @@
 (require 'init-markdown)
 (require 'init-neotree)
 (require 'init-org)
+(require 'init-projectile)
 (require 'init-scheme)
 (require 'init-web)
 
