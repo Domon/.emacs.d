@@ -16,6 +16,7 @@
 (require 'init-themes)
 
 ; Packages
+(require 'init-coffee)
 (require 'init-evil)
 (require 'init-fiplr)
 (require 'init-markdown)
