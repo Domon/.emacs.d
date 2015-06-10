@@ -1,5 +1,7 @@
-(require-package 'solarized-theme)
+(require-package 'color-theme-solarized)
 
-(load-theme 'solarized-dark t)
+(custom-set-variables '(frame-background-mode 'dark))
+
+(load-theme 'solarized t)
 
 (provide 'init-themes)
