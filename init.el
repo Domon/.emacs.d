@@ -19,6 +19,7 @@
 (require 'init-coffee)
 (require 'init-evil)
 (require 'init-fiplr)
+(require 'init-magit)
 (require 'init-markdown)
 (require 'init-neotree)
 (require 'init-org)

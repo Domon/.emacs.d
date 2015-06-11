@@ -11,6 +11,7 @@ I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
 * [Coffee Mode](https://github.com/defunkt/coffee-mode) - Syntax highlighting for CoffeeScript
 * [Evil](https://gitorious.org/evil/pages/Home)
 * [Fiplr](https://github.com/grizzl/fiplr) - Fuzzy file finder (`Cmd-t`)
+* [Magit](http://magit.vc/) - Git integration
 * [Markdown](http://jblevins.org/projects/markdown-mode/)
 * [NeoTree](https://github.com/jaypei/emacs-neotree) - File tree explorer (`F8`)
 * [Projectile](http://batsov.com/projectile/) - Project interaction
