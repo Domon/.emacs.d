@@ -1,10 +1,10 @@
 # Domon's .emacs.d
 
-I [GNU Emacs For Mac OS X](http://emacsformacosx.com/) (Emacs 24).
+I use [GNU Emacs For Mac OS X](http://emacsformacosx.com/).
 
 ## Installation
 
-    git clone git://github.com/Domon/.emacs.d.git ~/.emacs.d
+    git clone git@github.com:Domon/.emacs.d.git
 
 ## Extensions
 
